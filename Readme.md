@@ -90,3 +90,5 @@ Reposetory :-
 
 commit :-like save, we save our file on that reposetory.
 publike:-
+
+string in python :-
